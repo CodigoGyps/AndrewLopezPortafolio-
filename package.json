@@ -1,0 +1,25 @@
+{
+  "name": "portafolio",
+  "version": "1.0.0",
+  "description": "Mi portafolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodigoGyps/AndrewLopezPortafolio-.git"
+  },
+  "author": "Andrew López",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodigoGyps/AndrewLopezPortafolio-/issues"
+  },
+  "homepage": "https://github.com/CodigoGyps/AndrewLopezPortafolio-#readme",
+  "dependencies": {
+    "eins-modal": "^2.2.2",
+    "install": "^0.13.0",
+    "normalize.css": "^8.0.1",
+    "npm": "^8.12.1"
+  }
+}
